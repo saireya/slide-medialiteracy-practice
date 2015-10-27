@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="メディア・リテラシー実習" by="" slide="1" embed="1">
+<article>
+<s h="メディア・リテラシー実習">
+<frame title="\insertsection">
+<block class="alert">
+	メディアを<em>「読み書き」</em>する能力
+	<ul>
+		<li>情報の<alert><ruby r="しんぴょう">信憑</ruby>性</alert>や送り手の<alert>意図</alert>を<alert>客観的・批判的</alert>に捉える能力</li>
+		<li mark="⇨">情報の<em>受け手</em>としてメディアを批判的に「<em>読む</em>」<alert>レポート</alert></li>
+		<li>相手を意識した<alert>表現</alert>をし、相手の反応に応じた<alert>情報発信</alert>を行う能力</li>
+		<li mark="⇨">情報の<em>送り手</em>としてメディアを効果的に「<em>書く</em>」<alert>プレゼンテーション</alert></li>
+	</ul>
+</block>
+
+<img src="model-media.svg" scale=".25"/>
+</frame>
+
+<s h="レポート">
+<frame title="\insertsubsection">
+<block title="レポート" class="alert">
+	筆者の主張を伝えるために<alert>論理的</alert>・<alert>客観的</alert>に書かれた文章
+</block>
+
+<block title="主題(theme)" class="alert">
+	筆者が文章を作成する目的となる<alert>主張</alert>
+	<ul>
+		<li>筆者は<alert>何を伝えたい</alert>のか?</li>
+		<li><em>新規性</em>と<em>進歩性</em>が必要</li>
+	</ul>
+</block>
+<!-- TODO: 作成プロセスの図 -->
+</frame>
+
+<frame title="\insertsubsection">
+<block title="アウトライン(outline)" class="alert">
+	文章や発表の<alert>概略(骨組み・筋道)</alert>のこと
+	<ul>
+		<li>主張をどんな<em>表現</em>で伝えるのか?</li>
+		<li>主張をどんな<em>順序</em>で伝えるのか?</li>
+		<li>何を<em>根拠</em>に主張を補強するのか?</li>
+	</ul>
+</block>
+
+<!-- TODO: もう少しいいネーミングはないか? -->
+<block title="アウトライン・レビュー">
+	アウトラインを他者に伝える(言語化する)
+	<ul>
+		<li mark="⇨">アウトラインで不十分な点・曖昧な点をあぶり出す</li>
+		<li mark="⇨">言語化した表現を、実際に書く文章の下地にする</li>
+		<li mark="※">聴き手は<em>話し手に貢献するため</em>に質問・指摘する</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="査読(review)" class="alert">
+	<em>誤り</em>や<em>曖昧な点</em>を他者(<em>査読者, reviewer</em>)に<alert>指摘</alert>してもらい、内容を<alert>改善</alert>
+</block>
+<!-- TODO: 査読の図 -->
+
+<block title="査読前">
+	著者は誰かに査読を依頼する
+	<ul>
+		<li>著者は査読者に(書き込みのない)原稿を渡す</li>
+		<li>査読するのは義務ではない(査読を断るのは自由)</li>
+		<li>査読者は原稿に<em>黒以外の色で</em>指摘を書き込む<br/>
+			(引き受けた以上は<alert>遠慮無く指摘</alert>するのが査読者の礼儀)</li>
+		<li mark="※">原稿は必ず<alert>2名以上</alert>に査読してもらう</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="主な査読項目">
+	<ul>
+		<li><alert>著者の主張(論旨)</alert>は明瞭か?</li>
+		<li><alert>客観性</alert>は十分か?</li>
+		<li><em>書式(format)</em>に沿っているか?</li>
+		<li>読んで<em>理解できる文章になっているか</em>?<br/>
+			(句読点の付け方や文章の書き方に著者特有のクセがないか?)</li>
+	</ul>
+</block>
+
+<block title="査読後">
+	査読者は著者に原稿とレビューシートを返却する
+	<ul>
+		<li>著者は指摘を真摯に受け止める<br/>
+			(正しいかどうかはともかく、<em>そう感じた人がいる</em>ことは事実)</li>
+		<li>指摘を実際に<em>修正するかは著者が判断</em>する<br/>
+			(指摘の正しさを吟味するのは著者の役目)</li>
+		<li>必要な修正をして原稿を再印刷し、別の人に査読を依頼する</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="レビュー手順">
+	<ol>
+		<li>チェックリストでレポートを自己点検</li>
+		<li>レポートをUhomeにコピーする</li>
+		<li>ノートPCでレポートを印刷(両面刷り、長辺綴じ)</li>
+		<li>誰かにレビューを依頼し、レポートとレビューシートを渡す</li>
+		<li>返却されたレポートとレビューシートを基に修正</li>
+		<li>2.へ戻る</li>
+	</ol>
+</block>
+
+<block title="次回の提出物">
+	<ul>
+		<li>添削済みの<em>原稿</em> × 2</li>
+		<li><em>レビューシート</em> × 2</li>
+		<li>レポートの<em>アウトライン</em></li>
+		<li mark="※">次回は次の内容(プレゼンテーション)に進みます</li>
+		<li mark="※">レポートの最終締切: <alert>9/24(木) 17:00</alert>(moodleでファイルを差し替え)</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+<s h="プレゼンテーション">
+
+<frame title="\insertsubsection">
+<block>
+	プレゼンとは: Presentation.pptx
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="実習">
+	3-5人の班でプレゼンテーションを実施
+	<ul>
+		<li>内容: <em>新聞記事を導入</em>に用いていればよい</li>
+		<li>聴衆: (主に)<em>クラスメート</em></li>
+		<li>場所: 大講義室</li>
+		<li>形式: 口頭発表(<alert>発表10分 + 質疑応答5分 = 15分</alert>)</li>
+		<li mark="※">発表が10分以内になった場合、質疑応答の時間で調整</li>
+		<li>機材: スクリーン(4:3)、発表者用リモコン、レーザーポインタ、マイク</li>
+		<li mark="※">物品の持ち込み、実演などは応相談</li>
+		<li mark="※">タブレットPCから直接スクリーンには投影できない<br/>
+			(情報科で投影用のノートPCを用意します)</li>
+		<li>スライド: PowerPointで事前に作成</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="スライド作成">
+	\[ \text{プレゼン} = \text{内容(情報)} \times \text{技術} \times \text{聴衆} \]
+	<!-- TODO: 上の図 -->
+	<ul>
+		<li><alert>アウトライン</alert>を基に作成</li>
+		<li>発表の<em>時間配分</em>や「時間の<em>遅れ・余り</em>にどう対処するか」を検討</li>
+		<li>聴衆に「時間を割いてもらっている」ことを忘れずに!</li>
+	</ul>
+</block>
+
+<block title="リハーサル">
+	発表が円滑に進むよう、実際の会場・機材で<em>事前に確認</em>する
+	<ul>
+		<li>発表場所の<em>広さ</em>や適切な声の大きさを確認</li>
+		<li>当日使う機材の<em>操作法</em>や「<em>機材のクセ</em>」を把握</li>
+		<li>準備したスライドが<em>想定通りに映るか</em>確認</li>
+		<li><em>前の発表内容を確認</em>し、重複をなくしたり導入を工夫したりする</li>
+		<li mark="※"><alert>想定不足や準備不足で本番を迎えるのは危険</alert></li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="質疑">
+	発表への質問を通して<em>補足を求め</em>たり<em>議論を深め</em>たりする
+	<ul>
+		<li><alert>魅力ある発表なら、聴衆から質問がある</alert>はず<br/>
+			(質問が出ないのは、聴衆ではなく発表内容に問題があるとき)</li>
+		<li>質問者は<em>簡潔に質問</em>する(必要以上に時間を取らない)</li>
+		<li>演者は質問に<em>丁寧に対応</em>する<br/>
+			(質問したいことに答えられるよう、必要なら質問を聞き直す)</li>
+		<li mark="※">「貴重なお話を〜」「質問ありがとうございます」などの<em>枕詞は不要</em></li>
+		<li mark="※"><alert>質疑は決して「おまけ」ではない!</alert><br/>
+			(聴衆との議論は、時には発表以上に重要)</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+</s>
+</article>
+</log>
