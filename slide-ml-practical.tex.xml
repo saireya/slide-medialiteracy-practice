@@ -107,13 +107,13 @@
 	</ol>
 </block>
 
-<block title="次回の提出物">
+<block title="提出物">
 	<ul>
+		<li><alert>修正版のレポート</alert>・レポートの<em>アウトライン</em></li>
 		<li>添削済みの<em>原稿</em> × 2</li>
 		<li><em>レビューシート</em> × 2</li>
-		<li>レポートの<em>アウトライン</em></li>
 		<li mark="※">次回は次の内容(プレゼンテーション)に進みます</li>
-		<li mark="※">レポートの最終締切: <alert>9/24(木) 17:00</alert>(moodleでファイルを差し替え)</li>
+		<li mark="※">最終締切: <alert>9/20(月) 17:00</alert>(Upフォルダに提出)</li>
 	</ul>
 </block>
 </frame>
