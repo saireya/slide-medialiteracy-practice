@@ -30,7 +30,6 @@
 		<li><em>新規性</em>と<em>進歩性</em>が必要</li>
 	</ul>
 </block>
-<!-- TODO: 作成プロセスの図 -->
 </frame>
 
 <frame title="\insertsubsection">
@@ -43,7 +42,6 @@
 	</ul>
 </block>
 
-<!-- TODO: もう少しいいネーミングはないか? -->
 <block title="アウトライン・レビュー">
 	アウトラインを他者に伝える(言語化する)
 	<ul>
@@ -58,7 +56,6 @@
 <block title="査読(review)" class="alert">
 	<em>誤り</em>や<em>曖昧な点</em>を他者(<em>査読者, reviewer</em>)に<alert>指摘</alert>してもらい、内容を<alert>改善</alert>
 </block>
-<!-- TODO: 査読の図 -->
 
 <block title="査読前">
 	著者は誰かに査読を依頼する
@@ -148,7 +145,6 @@
 <frame title="\insertsubsection">
 <block title="スライド作成">
 	\[ \text{プレゼン} = \text{内容(情報)} \times \text{技術} \times \text{聴衆} \]
-	<!-- TODO: 上の図 -->
 	<ul>
 		<li><alert>アウトライン</alert>を基に作成</li>
 		<li>発表の<em>時間配分</em>や「時間の<em>遅れ・余り</em>にどう対処するか」を検討</li>
